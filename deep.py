@@ -72,7 +72,7 @@ st.markdown("Built with [Ollama](https://ollama.ai/) | [LangChain](https://pytho
 
 llm_engine=ChatOllama(
     model="deepseek-r1:1.5b",
-    base_url="http://localhost:11434",
+    base_url="https://929a-223-185-15-72.ngrok-free.app",
 
     temperature=0.9
 
